@@ -6,9 +6,6 @@
 <data-extraction-rules>
     <cloud-backup>
 
-        <include .../>
-        <exclude .../>
-        -->
     </cloud-backup>
     <!--
     <device-transfer>
